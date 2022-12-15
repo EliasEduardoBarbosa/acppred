@@ -1,0 +1,3 @@
+sequence_id,prediction
+cure_for_cancer,1.0
+maybe_not_the_cure,0.4
