@@ -6,8 +6,9 @@ setup(
     packages=find_packages(),
     author='Elias Eduardo Barbosa da Rosa',
     entry_points = {
-        'console_script': [
+        'console_scripts': [
             'acppred-train = acppred.train:main',
+            'acppred-predict = acppred.predict:main'
         ]
     }
 )
