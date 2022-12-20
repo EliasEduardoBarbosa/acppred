@@ -4,7 +4,8 @@ By Elias Eduardo Barbosa da Rosa
 
 a tool to predict anticancer peptides
 
-##Project Structure
+## Project Structure
+
 predict.py: contém o código direcionado a fazer predição dos peptídeos anticâncer.
 
 train.py: documento python que contém o código responsável por treinar o modelo.
